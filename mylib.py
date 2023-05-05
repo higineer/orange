@@ -2,6 +2,7 @@ import logging
 
 def do_something():
     logging.info('mylib')
+    print('bad')
 
 
 # if __name__ == '__main__':
