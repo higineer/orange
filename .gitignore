@@ -10,6 +10,9 @@ __pycache__/
 # Log file
 *.log
 
+# Pycharm file
+.idea/
+
 # Distribution / packaging
 .Python
 build/
