@@ -1,0 +1,15 @@
+{
+   "name":"higineer123",
+   "company":"sk",
+   "year":2023,
+   "history":[
+      {
+         "date":"2023-01-14",
+         "spec":"e1.s"
+      },
+      {
+         "date":"2016-03-24",
+         "spec":"emmc"
+      }
+   ]
+}

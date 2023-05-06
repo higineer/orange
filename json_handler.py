@@ -25,3 +25,14 @@ print(type(dic))
 print(dic['name'])
 for h in dic['history']:
     print(h['date'], h['spec'])
+
+
+with open('project_info.json') as f:
+    data = json.load(f)
+
+print(type(data))
+print(data)
+print(data['name'], data['company'], data['year'])
+
+for h in data['history']:
+    print(h['date'], h['spec'])
